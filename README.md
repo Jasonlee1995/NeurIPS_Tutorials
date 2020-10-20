@@ -2,7 +2,7 @@
 - Summary of NeurIPS Tutorials 2006 ~ 2019
 
 |Year|Title|Author|Link|
-|:-:||:-:|:-:|
+|:-:|-|:-:|:-:|
 |2006|Advances in Gaussian Processes|Carl Edward Rasmussen|-|
 |2006|Bayesian Models of Human Learning and Inference|Josh Tenenbaum|-|
 |2006|Diffusion Tensor Imaging and Fiber Tracking of Human Brain Pathways|Brian A Wandell|-|
