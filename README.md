@@ -9,7 +9,12 @@
 |2011|Lagrangian Relaxation Algorithms for Inference in Natural Language Processing|Alexander Rush & Michael Collins|-|
 |2011|Linear Programming Relaxations for Graphical Models|Amir Globerson & Tommi Jaakkola|-|
 |2011|Modern Bayesian Nonparametrics|Peter Orbanz & Yee Whye Teh|-|
-
+|2008|Agnostic Learning: Algorithms and Theory|Adam T Kalai|-|
+|2008|Compressed Sensing|Emmanuel Candes|-|
+|2008|Prequential Analysis|Philip Dawid|-|
+|2008|Statistical Models of Visual Images|Eero Simoncelli|-|
+|2008|The Neurobiology of Decision Making|Michael N Shadlen|-|
+|2008|The Smoothed Analysis of Algorithms|Daniel A Spielman|-|
 |2007|Deep Belief Nets|Geoffrey E Hinton|-|
 |2007|Learning Using Many Examples|Leon Bottou & Andrew W Moore|-|
 |2007|Sensory Coding and Hierarchical Representations|Michael S Lewicki|-|
@@ -26,6 +31,6 @@
 
 ## Reference
 - NeurIPS Tutorials 2011 [[link]](https://nips.cc/Conferences/2011/Schedule?type=Tutorial)
-
+- NeurIPS Tutorials 2008 [[link]](https://nips.cc/Conferences/2008/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2007 [[link]](https://nips.cc/Conferences/2007/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2006 [[link]](https://nips.cc/Conferences/2006/Schedule?type=Tutorial)
