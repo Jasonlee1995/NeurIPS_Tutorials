@@ -3,6 +3,12 @@
 
 |Year|Title|Author|Link|
 |:-:|-|:-:|:-:|
+|2012|Consciousness and Information Theory|Giulio Tononi|-|
+|2012|Exact Approximate Learning|Paul Fearnhead|-|
+|2012|Machine Learning for Student Learning|Emma Brunskill & Geoffrey Gordon|-|
+|2012|Representation, Inference and Learning in Structured Statistical Models|Lise Getoor|-|
+|2012|Stochastic Search and Optimization|James Spall|-|
+|2012|User-Friendly Tools for Studying Random Matrices|Joel A Tropp|-|
 |2011|Flexible, Multivariate Point Process Models for Unlocking the Neural Code|Jonathan W Pillow|-|
 |2011|Graphical Models for the Internet|Amr Ahmed & Alexander Smola||-|
 |2011|Information Theory in Learning and Control|Naftali Tishby|-|
@@ -30,6 +36,7 @@
 
 
 ## Reference
+- NeurIPS Tutorials 2012 [[link]](https://nips.cc/Conferences/2012/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2011 [[link]](https://nips.cc/Conferences/2011/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2008 [[link]](https://nips.cc/Conferences/2008/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2007 [[link]](https://nips.cc/Conferences/2007/Schedule?type=Tutorial)
