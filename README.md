@@ -15,6 +15,13 @@
 |2011|Lagrangian Relaxation Algorithms for Inference in Natural Language Processing|Alexander Rush & Michael Collins|-|
 |2011|Linear Programming Relaxations for Graphical Models|Amir Globerson & Tommi Jaakkola|-|
 |2011|Modern Bayesian Nonparametrics|Peter Orbanz & Yee Whye Teh|-|
+|2010|||-|
+|2009|Deep Learning in Natural Language Processing|Ronan Collobert & Jason E Weston|-|
+|2009|Making Very Large-Scale Linear Algebraic Computations Possible Via Randomization|Gunnar Martinsson|-|
+|2009|Model-Based Reinforcement Learning|Michael L Littman|-|
+|2009|Sequential Monte-Carlo Methods|Arnaud Doucet & Nando de Freitas|-|
+|2009|Sparse Methods for Machine Learning: Theory and Algorithms|Francis Bach|-|
+|2009|Understanding Visual Scenes|Antonio Torralba|-|
 |2008|Agnostic Learning: Algorithms and Theory|Adam T Kalai|-|
 |2008|Compressed Sensing|Emmanuel Candes|-|
 |2008|Prequential Analysis|Philip Dawid|-|
@@ -38,6 +45,8 @@
 ## Reference
 - NeurIPS Tutorials 2012 [[link]](https://nips.cc/Conferences/2012/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2011 [[link]](https://nips.cc/Conferences/2011/Schedule?type=Tutorial)
+
+- NeurIPS Tutorials 2009 [[link]](https://nips.cc/Conferences/2009/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2008 [[link]](https://nips.cc/Conferences/2008/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2007 [[link]](https://nips.cc/Conferences/2007/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2006 [[link]](https://nips.cc/Conferences/2006/Schedule?type=Tutorial)
