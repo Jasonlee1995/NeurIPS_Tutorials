@@ -15,7 +15,12 @@
 |2011|Lagrangian Relaxation Algorithms for Inference in Natural Language Processing|Alexander Rush & Michael Collins|-|
 |2011|Linear Programming Relaxations for Graphical Models|Amir Globerson & Tommi Jaakkola|-|
 |2011|Modern Bayesian Nonparametrics|Peter Orbanz & Yee Whye Teh|-|
-|2010|||-|
+|2010|High-dimensional Statistics: Prediction, Association and Causal Inference|Peter Bühlmann|-|
+|2010|Latent Factor Models for Relational Arrays and Network Data|Peter Hoff|-|
+|2010|Optimization Algorithms in Machine Learning|Stephen Wright|-|
+|2010|Reinforcement Learning for Embodied Cognition|Dana Ballard|-|
+|2010|Reinforcement Learning in Humans and Other Animals|Nathaniel D Daw|-|
+|2010|Vision-Based Control, Control-Based Vision, and the Information Knot That Ties Them|Stefano Soatto|-|
 |2009|Deep Learning in Natural Language Processing|Ronan Collobert & Jason E Weston|-|
 |2009|Making Very Large-Scale Linear Algebraic Computations Possible Via Randomization|Gunnar Martinsson|-|
 |2009|Model-Based Reinforcement Learning|Michael L Littman|-|
@@ -45,7 +50,7 @@
 ## Reference
 - NeurIPS Tutorials 2012 [[link]](https://nips.cc/Conferences/2012/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2011 [[link]](https://nips.cc/Conferences/2011/Schedule?type=Tutorial)
-
+- NeurIPS Tutorials 2010 [[link]](https://nips.cc/Conferences/2010/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2009 [[link]](https://nips.cc/Conferences/2009/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2008 [[link]](https://nips.cc/Conferences/2008/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2007 [[link]](https://nips.cc/Conferences/2007/Schedule?type=Tutorial)
