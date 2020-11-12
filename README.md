@@ -3,6 +3,12 @@
 
 |Year|Title|Author|Link|
 |:-:|-|:-:|:-:|
+|2013|Approximate Bayesian Computation (ABC)|Richard D Wilkinson|-|
+|2013|Causes and Counterfactuals: Concepts, Principles and Tools|Judea Pearl & Elias Bareinboim|-|
+|2013|Deep Learning for Computer Vision|Rob Fergus|-|   
+|2013|Deep Mathematical Properties of Submodularity with Applications to Machine Learning|Jeff Bilmes|-|
+|2013|Learning to Interact|John Langford|-|
+|2013|Mechanisms Underlying Visual Object Recognition: Humans vs. Neurons vs. Machines|James J DiCarlo|-|
 |2012|Consciousness and Information Theory|Giulio Tononi|-|
 |2012|Exact Approximate Learning|Paul Fearnhead|-|
 |2012|Machine Learning for Student Learning|Emma Brunskill & Geoffrey Gordon|-|
@@ -48,6 +54,7 @@
 
 
 ## Reference
+- NeurIPS Tutorials 2013 [[link]](https://nips.cc/Conferences/2013/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2012 [[link]](https://nips.cc/Conferences/2012/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2011 [[link]](https://nips.cc/Conferences/2011/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2010 [[link]](https://nips.cc/Conferences/2010/Schedule?type=Tutorial)
