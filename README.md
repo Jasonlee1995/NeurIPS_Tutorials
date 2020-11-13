@@ -3,6 +3,12 @@
 
 |Year|Title|Author|Link|
 |:-:|-|:-:|:-:|
+|2014|Climate Change: Challenges for Machine Learning|Arindam Banerjee & Claire Monteleoni|-|
+|2014|Computing Game-Theoretic Solutions|Vincent Conitzer|-|
+|2014|Differential Privacy and Learning: The Tools, The Results, and The Frontier|Katrina Ligett|-|
+|2014|Integrated Information Theory of Consciousness - Conceptual Formulation & Adventures in Simulated Evolution|Christof Koch|-|
+|2014|Non-Parametric Causal Models|Thomas Richardson|-|
+|2014|Recent Progress in the Structure of Large-Treewidth Graphs and Some Applications|Chandra Chekuri|-|
 |2013|Approximate Bayesian Computation (ABC)|Richard D Wilkinson|-|
 |2013|Causes and Counterfactuals: Concepts, Principles and Tools|Judea Pearl & Elias Bareinboim|-|
 |2013|Deep Learning for Computer Vision|Rob Fergus|-|   
@@ -54,6 +60,7 @@
 
 
 ## Reference
+- NeurIPS Tutorials 2014 [[link]](https://nips.cc/Conferences/2014/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2013 [[link]](https://nips.cc/Conferences/2013/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2012 [[link]](https://nips.cc/Conferences/2012/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2011 [[link]](https://nips.cc/Conferences/2011/Schedule?type=Tutorial)
