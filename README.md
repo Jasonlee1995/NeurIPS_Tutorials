@@ -3,6 +3,12 @@
 
 |Year|Title|Author|Link|
 |:-:|-|:-:|:-:|
+|2015|Deep Learning|Geoffrey E Hinton & Yoshua Bengio & Yann LeCun|-|
+|2015|High-Performance Hardware for Machine Learning|Bill Dally|-|
+|2015|Introduction to Reinforcement Learning with Function Approximation|Richard Sutton|-|
+|2015|Large-Scale Distributed Systems for Training Neural Networks|Jeff Dean & Oriol Vinyals|-|
+|2015|Monte Carlo Inference Methods|Iain Murray|-|
+|2015|Probabilistic Programming|Frank Wood|-|
 |2014|Climate Change: Challenges for Machine Learning|Arindam Banerjee & Claire Monteleoni|-|
 |2014|Computing Game-Theoretic Solutions|Vincent Conitzer|-|
 |2014|Differential Privacy and Learning: The Tools, The Results, and The Frontier|Katrina Ligett|-|
@@ -60,6 +66,7 @@
 
 
 ## Reference
+- NeurIPS Tutorials 2015 [[link]](https://nips.cc/Conferences/2015/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2014 [[link]](https://nips.cc/Conferences/2014/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2013 [[link]](https://nips.cc/Conferences/2013/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2012 [[link]](https://nips.cc/Conferences/2012/Schedule?type=Tutorial)
