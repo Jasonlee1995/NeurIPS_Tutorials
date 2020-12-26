@@ -3,6 +3,15 @@
 
 |Year|Title|Author|Link|
 |:-:|-|:-:|:-:|
+|2016|Crowdsourcing: Beyond Label Generation|Jennifer Wortman Vaughan|-|
+|2016|Deep Reinforcement Learning Through Policy Optimization|Pieter Abbeel & John Schulman|-|
+|2016|Generative Adversarial Networks|Ian Goodfellow|-|
+|2016|Large-Scale Optimization: Beyond Stochastic Gradient Descent and Convexity|Suvrit Sra & Francis Bach|-|
+|2016|ML Foundations and Methods for Precision Medicine and Healthcare|Suchi Saria & Peter Schulam|-|
+|2016|Natural Language Processing for Computational Social Science|Cristian Danescu-Niculescu-Mizil & Lillian Lee|-|
+|2016|Nuts and Bolts of Building Applications using Deep Learning|Andrew Ng|-|
+|2016|Theory and Algorithms for Forecasting Non-Stationary Time Series|Vitaly Kuznetsov & Mehryar Mohri|-|
+|2016|Variational Inference: Foundations and Modern Methods|David Blei & Shakir Mohamed & Rajesh Ranganath|-|
 |2015|Deep Learning|Geoffrey E Hinton & Yoshua Bengio & Yann LeCun|-|
 |2015|High-Performance Hardware for Machine Learning|Bill Dally|-|
 |2015|Introduction to Reinforcement Learning with Function Approximation|Richard Sutton|-|
@@ -66,6 +75,7 @@
 
 
 ## Reference
+- NeurIPS Tutorials 2016 [[link]](https://nips.cc/Conferences/2016/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2015 [[link]](https://nips.cc/Conferences/2015/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2014 [[link]](https://nips.cc/Conferences/2014/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2013 [[link]](https://nips.cc/Conferences/2013/Schedule?type=Tutorial)
