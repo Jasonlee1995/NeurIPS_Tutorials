@@ -3,6 +3,15 @@
 
 |Year|Title|Author|Link|
 |:-:|-|:-:|:-:|
+|2017|A Primer on Optimal Transport|Marco Cuturi & Justin M Solomon|-|
+|2017|Deep Learning: Practice and Trends|Nando de Freitas & Scott Reed & Oriol Vinyals|-|
+|2017|Deep Probabilistic Modelling with Gaussian Processes|Neil D Lawrence|-|
+|2017|Differentially Private Machine Learning: Theory, Algorithms and Applications|Kamalika Chaudhuri & Anand D Sarwate|-|
+|2017|Engineering and Reverse-Engineering Intelligence Using Probabilistic Programs, Program Induction, and Deep Learning|Josh Tenenbaum & Vikash Mansinghka|-|
+|2017|Fairness in Machine Learning|Solon Barocas & Moritz Hardt|-|
+|2017|Geometric Deep Learning on Graphs and Manifolds|Michael Bronstein & Joan Bruna & arthur szlam & Xavier Bresson & Yann LeCun|-|
+|2017|Reinforcement Learning with People|Emma Brunskill|-|
+|2017|Statistical Relational Artificial Intelligence: Logic, Probability and Computation|Luc De Raedt & David Poole & Kristian Kersting & Sriraam Natarajan|-|
 |2016|Crowdsourcing: Beyond Label Generation|Jennifer Wortman Vaughan|-|
 |2016|Deep Reinforcement Learning Through Policy Optimization|Pieter Abbeel & John Schulman|-|
 |2016|Generative Adversarial Networks|Ian Goodfellow|-|
@@ -75,6 +84,7 @@
 
 
 ## Reference
+- NeurIPS Tutorials 2017 [[link]](https://nips.cc/Conferences/2017/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2016 [[link]](https://nips.cc/Conferences/2016/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2015 [[link]](https://nips.cc/Conferences/2015/Schedule?type=Tutorial)
 - NeurIPS Tutorials 2014 [[link]](https://nips.cc/Conferences/2014/Schedule?type=Tutorial)
